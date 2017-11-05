@@ -1,0 +1,2 @@
+# react-native-gradientNavigationBarDemo
+实现类似天猫首页的滑动导航颜色渐变效果组件
